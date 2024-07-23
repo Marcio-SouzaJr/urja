@@ -40,8 +40,7 @@ function Contact() {
             type="button"
             id="hamburguer-menu"
             className="btn fw-bold fs-6 col-4  "
-            data-bs-toggle="modal"
-            data-bs-target="#exampleModal"
+
           >
             Enviar
           </button>

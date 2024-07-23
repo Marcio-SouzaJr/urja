@@ -20,7 +20,7 @@ const Servicos = () => {
           {/* Card */}
           <div class="card col-6 col-md-3 border-0 card-bg align-self-center align-self-md-stretch mb-3">
             <a
-              href="https://www.w3schools.com"
+              href="#"
               style={{ textDecoration: "none" }}
             >
               <img src={image16} class="card-img-top" />
@@ -47,8 +47,6 @@ const Servicos = () => {
               type="button"
               id="hamburguer-menu"
               className="btn fw-bold fs-6 col-6 col-md-2 mx-auto my-3"
-              data-bs-toggle="modal"
-              data-bs-target="#exampleModal"
             >
               Saiba mais
             </button>
@@ -70,8 +68,6 @@ const Servicos = () => {
               type="button"
               id="hamburguer-menu"
               className="btn fw-bold fs-6 col-6 col-md-2 mx-auto my-3"
-              data-bs-toggle="modal"
-              data-bs-target="#exampleModal"
             >
               Saiba mais
             </button>
@@ -79,7 +75,7 @@ const Servicos = () => {
           {/* Card */}
           <div class="card col-6 col-md-3 border-0 card-bg align-self-center align-self-md-stretch mb-3">
             <a
-              href="https://www.w3schools.com"
+              href="#"
               style={{ textDecoration: "none" }}
             >
               <img src={image17} class="card-img-top" />
@@ -100,7 +96,7 @@ const Servicos = () => {
           {/* Card */}
           <div class="card col-6 col-md-3 border-0 card-bg align-self-center align-self-md-stretch mb-3">
             <a
-              href="https://www.w3schools.com"
+              href="#"
               style={{ textDecoration: "none" }}
             >
               <img src={image18} class="card-img-top" />
@@ -126,8 +122,6 @@ const Servicos = () => {
               type="button"
               id="hamburguer-menu"
               className="btn fw-bold fs-6 col-6 col-md-2 mx-auto my-3"
-              data-bs-toggle="modal"
-              data-bs-target="#exampleModal"
             >
               Saiba mais
             </button>

@@ -70,12 +70,12 @@ const Footer = () => {
               <h5>Contato</h5>
               <ul class="nav flex-column">
                 <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted text-start">
+                  <a href="tel:81-3224-7070" class="nav-link p-0 text-muted text-start">
                     +55 81 3224-7070
                   </a>
                 </li>
                 <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted text-start">
+                  <a href="mailto:contato@urjasocial.com.br" class="nav-link p-0 text-muted text-start">
                     contato@urjasocial.com.br
                   </a>
                 </li>
